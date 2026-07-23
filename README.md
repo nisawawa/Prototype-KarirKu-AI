@@ -57,4 +57,6 @@ Pastikan Anda telah menginstal **Node.js** di sistem Anda.
 Proyek ini merupakan purwarupa (prototype) awal yang dibangun sebagai bagian dari Tugas Besar Kewirausahaan (TUBES KWU). 
 
 ---
-Dibuat dengan ❤️ oleh Tim KarirKu AI.
+Dibuat dengan ❤️ oleh Tim KarirKu AI:
+1. Najwa Khairun Nisa (24523263)
+2. Hanna Eileen Suryadi (24523247)
